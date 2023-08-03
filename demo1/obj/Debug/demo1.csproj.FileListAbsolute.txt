@@ -1,0 +1,11 @@
+D:\file csv\demo1\bin\Debug\demo1.exe.config
+D:\file csv\demo1\bin\Debug\demo1.exe
+D:\file csv\demo1\bin\Debug\demo1.pdb
+D:\file csv\demo1\bin\Debug\LINQtoCSV.dll
+D:\file csv\demo1\obj\Debug\demo1.csproj.AssemblyReference.cache
+D:\file csv\demo1\obj\Debug\demo1.csproj.SuggestedBindingRedirects.cache
+D:\file csv\demo1\obj\Debug\demo1.csproj.CoreCompileInputs.cache
+D:\file csv\demo1\obj\Debug\demo1.csproj.CopyComplete
+D:\file csv\demo1\obj\Debug\demo1.exe
+D:\file csv\demo1\obj\Debug\demo1.pdb
+D:\file csv\demo1\bin\Debug\DanhSachSV.csv
